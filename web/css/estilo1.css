@@ -1,0 +1,54 @@
+body{
+	font-family: russo one;
+	font-size: 1rem;	
+	line-height: 2;
+	color: black;
+}
+
+.fondototal{
+	margin: auto;
+}
+.fondototal fieldset{
+background-color: yellow;
+}
+.centrar{
+	text-align: center;
+}
+
+.tabla{
+   border-color: black;
+   border-width: 3px;
+   border-style: solid;
+}
+.boton input{
+	background-color: #cccccc;
+	font-family: comic sans;
+	font-size: 16px;
+	text-align: center;
+	border-color: black;
+	border-radius: 5rem;
+}
+.boton option{
+	background-color: #cccccc;
+	font-family: comic sans;
+	font-size: 16px;
+	text-align: center;
+	border-color: black;
+	border-radius: 5rem;
+}
+.boton textarea{
+	background-color: #cccccc;
+	font-family: comic sans;
+	font-size: 16px;
+	text-align: center;
+	border-color: black;
+	border-radius: 5rem;
+}
+.boton button{
+	background-color: #cccccc;
+	font-family: russo one;
+	font-size: 16px;
+	text-align: center;
+	border-color: black;
+	border-radius: 5rem;
+}

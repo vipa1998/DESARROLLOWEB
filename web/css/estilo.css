@@ -1,0 +1,76 @@
+ 
+.body{
+       padding: 2rem;
+       background-color: #ffffbf;
+       font-size: 1rem;
+       font-family: calibri;
+       margin:auto;
+      }
+      .body h1{
+         background-color:gold;
+      }
+      .a{
+          padding: 0.8rem;
+          font-size: 1.5rem;
+          text-align: center;
+          color: blue;
+          font-family: courier;
+          font-weight: bold;
+      }
+       .titulo{
+          text-decoration: underline;
+          font-family: algerian;
+          font-weight: bold;
+          font-size: 1.5rem;
+          text-align: center;
+          padding: 1rem;
+      }
+       .titulo2{
+          font-family: courier;
+          font-weight: bold;
+          font-size: 1.5rem;
+          text-align: center;
+          padding: 1rem;
+      }
+      .tabla{
+          padding: 0.8rem;
+          text-align: center;
+          border-collapse:collapse;
+          background-color: yellowgreen;
+          border-color: black;
+          font-family: courier;
+          font-weight: bold;
+      }
+      .tabla2{
+          font-family: courier;
+          font-weight: bold;
+          padding: 1rem;
+      }
+      .tabla th{
+         padding: 1rem; 
+      }
+      .tabla td{
+          padding: 1rem; 
+      }
+       .tabla2 th{
+         padding: 0.5rem; 
+      }
+      .tabla2 td{
+          padding: 0.5rem; 
+      }
+      .orange{
+          background-color: orange;
+      }
+      
+      .verde input{
+          background-color: yellowgreen;
+          padding: 0.5rem;
+          color: black;
+      }
+      .fr{
+          width: 40%;
+          border:solid;
+          border-width:0.5rem;
+          border-color: black; 
+          background:yellow;
+      }
